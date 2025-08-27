@@ -1,12 +1,11 @@
 <h1 align="center">Heyyyy!!👋, You Found Me!!</h1>
-<h1 align="center">I'm Shayan Ali</h1>
 <h3 align="center">I believe in the power of open-source collaboration. You'll find me contributing to various projects, sharing my knowledge, & teaching.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielhashmi&label=Profile%20views&color=0e75b6&style=flat" alt="danielhashmi" /> </p>
 
 
-HI! I'm Shayan ALi, a quiet coder 🧩
+HI! I'm Shayan ALi, a focused coder 🧩
 
 - 🔭 Currently studying, thinking & creating
 
@@ -16,9 +15,7 @@ Feel alive near my laptop 💻
 
 Love 💖 to work on innovations 🪢 and deep unique ideas
 
-Thinking to transform the world 😂
-
-> Peace was never an option 🤷‍♂️
+Thinking to transform the world 😉
 
 🛠️ **Weapons**
 
@@ -44,5 +41,6 @@ Thinking to transform the world 😂
     <img src="https://github-readme-streak-stats.herokuapp.com?user=danielhashmi&theme=dark&hide_border=true&background=1e1e1e&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
 </p>
 
-[![Twitter: @_DanielHashmi_](https://img.shields.io/badge/Twitter--1e1e1e?style=flat&logo=twitter&logoColor=ffffff)](https://x.com/_DanielHashmi_)
-[![LinkedIn: Daniel Hashmi](https://img.shields.io/badge/LinkedIn--1e1e1e?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/daniel-hashmi/)
+[![Twitter: @_Shayan_Ali](https://img.shields.io/badge/Twitter--1e1e1e?style=flat&logo=instagram&logoColor=ffffff)](https://www.instagram.com/itz_shaya9/#)
+[![LinkedIn: @_Shayan_Ali](https://img.shields.io/badge/LinkedIn--1e1e1e?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shaya9/)
+
