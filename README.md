@@ -2,7 +2,7 @@
 <h3 align="center">I believe in the power of open-source collaboration. You'll find me contributing to various projects, sharing my knowledge, & teaching.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielhashmi&label=Profile%20views&color=0e75b6&style=flat" alt="danielhashmi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shayan21345293&label=Profile%20views&color=0e75b6&style=flat" alt="Shayan Ali" /> </p>
 
 
 HI! I'm Shayan ALi, a focused coder 🧩
