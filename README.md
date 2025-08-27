@@ -32,10 +32,10 @@ Thinking to transform the world 😉
 ### 📊 **GitHub Stats**
 
 <p align="start">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danielhashmi&layout=compact&theme=dark&hide_border=true&bg_color=1e1e1e&title_color=ffffff&text_color=ffffff"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shayan21345293&layout=compact&theme=dark&hide_border=true&bg_color=1e1e1e&title_color=ffffff&text_color=ffffff"/>
 </p>
 <p align="start">
-    <img src="https://github-readme-stats.vercel.app/api?username=danielhashmi&show_icons=true&hide_border=true&theme=dark&bg_color=1e1e1e&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Shayan21345293&show_icons=true&hide_border=true&theme=dark&bg_color=1e1e1e&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 </p>
 <p align="start">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Shayan21345293&theme=dark&hide_border=true&background=1e1e1e&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
