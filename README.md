@@ -41,6 +41,6 @@ Thinking to transform the world 😉
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Shayan21345293&theme=dark&hide_border=true&background=1e1e1e&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
 </p>
 
-[![Twitter: @_Shayan_Ali](https://img.shields.io/badge/Twitter--1e1e1e?style=flat&logo=instagram&logoColor=ffffff)](https://www.instagram.com/itz_shaya9/#)
+[![Instagram: @_Shayan_Ali](https://img.shields.io/badge/Twitter--1e1e1e?style=flat&logo=instagram&logoColor=ffffff)](https://www.instagram.com/itz_shaya9/#)
 [![LinkedIn: @_Shayan_Ali](https://img.shields.io/badge/LinkedIn--1e1e1e?style=flat&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shaya9/)
 
